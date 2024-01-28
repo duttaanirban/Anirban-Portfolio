@@ -1,6 +1,7 @@
 *{
   background-color: white; 
   margin: 0; 
+  scroll-behavior: smooth;
 }
 
 #logo{
@@ -65,6 +66,14 @@
     margin-top: 70px;
 }
 
+.box1{
+    font-size: 1.5rem;
+}
+
+.box2{
+    font-size: 1.5rem;
+}
+
 .amazon{
     border: 5px solid;
     margin-left: 90px;
@@ -103,7 +112,7 @@
 
 .heading1{
     padding: 10px;
-    margin-bottom: 70px;
+    margin-bottom: 55px;
     background-color: rgb(224,224,224);
     
     
@@ -122,9 +131,9 @@
 
 #mail{
     padding: 8px;
-    background-color: black;
+    background-color: whitesmoke;
     font-size: 30px;
-    border: 5px solid white;
+    border: 2px solid black;
     border-radius: 30px;
 }
 
